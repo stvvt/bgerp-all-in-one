@@ -1,0 +1,9 @@
+[submodule "bgerp"]
+	path = bgerp
+	url = git@github.com:bgerp/bgerp.git
+[submodule "ef"]
+	path = ef
+	url = git@github.com:bgerp/ef.git
+[submodule "vendors"]
+	path = vendors
+	url = git@github.com:bgerp/vendors.git
